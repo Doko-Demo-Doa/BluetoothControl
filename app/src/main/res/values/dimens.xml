@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="navigator_button_width">74dp</dimen>
+  <dimen name="label_margin_right">14dp</dimen>
+</resources>
